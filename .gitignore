@@ -45,3 +45,20 @@ $RECYCLE.BIN/
 # Virtual environments
 venv/
 .env/
+*.dll
+Toolls
+share
+Scripts
+libs 
+lib
+Library
+include
+etc
+DLLs
+conda-meta
+*.exe
+*.pdb
+.nonadmin
+Tools
+LICENSE_PYTHON.txt
+Menu
