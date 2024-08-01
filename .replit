@@ -1,4 +1,5 @@
 entrypoint = "main.py"
+modules = ["python-3.10"]
 
 [interpreter]
 command = "python3 main.py"
