@@ -10,7 +10,7 @@ while True:
         case "show":
              for index, item in enumerate(todos):
                  item = item.title()
-                 print(index, '-', item)
+                 print(f"{index + 1}-{item}")
         case "edit":
             number = int(input("Enter the number of the todo to edit: "))
             number = number - 1
